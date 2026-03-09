@@ -31,6 +31,7 @@ This repository contains:
 - ✅ ML model for approximating ADMM subproblems  
 - ✅ Training and evaluation pipelines for ADMM-ML and hybrid solutions  
 - ✅ Training data generation with $\epsilon$-greedy exploration
+- ✅ Stochastic scenario generation using ARIMA models
   
 
 ---
