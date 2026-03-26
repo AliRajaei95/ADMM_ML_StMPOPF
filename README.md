@@ -22,6 +22,11 @@ This paper introduces a scenario-based decomposition of the St-MP-OPF based on t
 The numerical results on the 118-bus and 1354-bus systems show that the proposed ADMM-ML approach solves the St-MP-OPF with 3–4 orders of magnitude speed-ups, while the hybrid approach provides a balance between speed-ups and optimality.
 
 ---
+### Algorithm in action
+![Algorithm animation](assets/scenarios.gif)
+Two-stage stocahstic Scheduling with MPC
+
+---
 
 ## 📌 Repository Overview
 
