@@ -23,8 +23,10 @@ The numerical results on the 118-bus and 1354-bus systems show that the proposed
 
 ---
 ### Algorithm in action
-![Algorithm animation](assets/scenarios.gif)
-Two-stage stocahstic Scheduling with MPC.
+<p align="center">
+  <img src="assets/scenarios.gif" width="500"><br>
+  <em>Two-stage stochastic scheduling with MPC</em>
+</p>
 
 ---
 
